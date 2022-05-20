@@ -35,6 +35,6 @@ var config = {
         cake_fadein: "哦，对",
         light_candle: "还没发言呢",
         wish_message: "520，快乐不？",
-        story: "A MESSAGE FOR YOU",
+        story: "A MESSAGE FOR YOU,往下划哦~",
     }
 };
