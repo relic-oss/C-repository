@@ -12,7 +12,7 @@ body {
 	display: none;
 }
 .peach {
-	background-color: #FFDAB9;
+	background-color: #bfe9ff;
 
 }
 .peach-after {
@@ -25,90 +25,90 @@ body {
 
 @-webkit-keyframes peach_alive {
 	0%{
-		background-color: #FFDAB9;
+		background-color: #bfe9ff;
 	}
 	25%{
-		background-color: #FFE4B5;
+		background-color: #ffafbd;
 	}
 	50%{
-		background-color: #FFDAB9;
+		background-color: #C6FFDD;
 	}
 	75%{
-		background-color: #FFEFD5;
+		background-color: #c9ffbf;
 	}
 	100%{
-		background-color: #FFDAB9;
+		background-color: #bfe9ff;
 	}
 }
 @-moz-keyframes peach_alive {
 	0%{
-		background-color: #FFDAB9;
+		background-color: #bfe9ff;
 	}
 	25%{
-		background-color: #FFE4B5;
+		background-color: #ffafbd;
 	}
 	50%{
-		background-color: #FFDAB9;
+		background-color: #C6FFDD;
 	}
 	75%{
-		background-color: #FFEFD5;
+		background-color: #c9ffbf;
 	}
 	100%{
-		background-color: #FFDAB9;
+		background-color: #bfe9ff;
 	}
 }
 
 @-o-keyframes peach_alive {
 	0%{
-		background-color: #FFDAB9;
+		background-color: #bfe9ff;
 	}
 	25%{
-		background-color: #FFE4B5;
+		background-color: #ffafbd;
 	}
 	50%{
-		background-color: #FFDAB9;
+		background-color: #C6FFDD;
 	}
 	75%{
-		background-color: #FFEFD5;
+		background-color: #c9ffbf;
 	}
 	100%{
-		background-color: #FFDAB9;
+		background-color: #bfe9ff;
 	}
 }
 
 @-ms-keyframes peach_alive {
 	0%{
-		background-color: #FFDAB9;
+		background-color: #bfe9ff;
 	}
 	25%{
-		background-color: #FFE4B5;
+		background-color: #ffafbd;
 	}
 	50%{
-		background-color: #FFDAB9;
+		background-color: #C6FFDD;
 	}
 	75%{
-		background-color: #FFEFD5;
+		background-color: #c9ffbf;
 	}
 	100%{
-		background-color: #FFDAB9;
+		background-color: #bfe9ff;
 	}
 }
 
 @keyframes peach_alive {
 	0%{
-		background-color: #FFDAB9;
+		background-color: #bfe9ff;
 	}
 	25%{
-		background-color: #FFE4B5;
+		background-color: #ffafbd;
 	}
 	50%{
-		background-color: #FFDAB9;
+		background-color: #C6FFDD;
 	}
 	75%{
-		background-color: #FFEFD5;
+		background-color: #c9ffbf;
 	}
 	100%{
-		background-color: #FFDAB9;
+		background-color: #bfe9ff;
 	}
 }
 
